@@ -9,4 +9,4 @@ nombre: Monserrat Lemus Ramirez
 3.- Salir con mi familia o amigos   
 
 1 Meta 
-1.- Entender mejor para que sirve cada parte de codigo y aprender a crear paginas web bien ordenadas
+1.- este documento lo modifico jaime y lo hizo mjr por que estaba todo aburrido y espero sacar 10 en este trabajo por q acarrie al equipo.
